@@ -69,19 +69,6 @@ Frontend-focused implementation with smooth and fast performance.
 
 ---
 
-# 📂 Folder Structure
-
-```bash
-To-Do-List/
-│── index.html
-│── style.css
-│── script.js
-│── assets/
-│── README.md
-```
-
----
-
 # 🧪 Future Enhancements
 
 - 📅 Task deadlines & reminders
